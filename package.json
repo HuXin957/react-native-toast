@@ -1,0 +1,25 @@
+{
+  "name": "@huxin957/react-native-toast",
+  "version": "1.0.0",
+  "description": "react-native-toast",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuXin957/react-native-toast.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuXin957/react-native-toast/issues"
+  },
+  "homepage": "https://github.com/HuXin957/react-native-toast#readme",
+  "dependencies": {
+    "@huxin957/react-native-modal": "^1.0.0",
+    "@huxin957/react-native-portal": "^1.0.0",
+    "react-native-line-style": "^0.1.1"
+  }
+}
