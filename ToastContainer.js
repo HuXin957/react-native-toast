@@ -66,7 +66,7 @@ export default class ToastContainer extends React.Component {
   }
 
   render() {
-    const { content, errorCode, type, mask, position, positionValue } =
+    const { content, type, mask, position, positionValue } =
       this.props;
     const { fadeAnim } = this.state;
 
