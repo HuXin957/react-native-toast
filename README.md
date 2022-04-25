@@ -5,7 +5,7 @@
 >yarn add @huxin957/react-native-toast @huxin957/react-native-portal react-native-line-style
 
 ## How to use
-> portal: https://github.com/HuXin957/react-native-portal/blob/main
+> portal: https://github.com/HuXin957/react-native-portal
 
 > import Toast from "@huxin957/react-native-toast"
 
